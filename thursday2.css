@@ -1,0 +1,30 @@
+h1
+{
+    text-align: center;
+    color: rgb(63, 17, 228);
+    font-size: 40px;
+}
+h2
+{
+    text-align: center;
+    color: rgb(18, 17, 18);
+    background-color: rebeccapurple;
+}
+.a{
+
+    font-size: xx-large;
+    text-align: center;
+    border: 50px solid rgb(67, 234, 7);
+    border-spacing: 20px;
+    width: 700px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+    
+    
+}
